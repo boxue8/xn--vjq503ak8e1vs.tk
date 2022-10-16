@@ -71,9 +71,12 @@ background: '#f7f9fe'
 inject:
   head:
     - <link rel="stylesheet" href="/css/blog.css">
+    - <link rel="stylesheet" href="/css/rightMenu.css">
+    - <link rel="stylesheet" href="/css/iconfont.css">
   bottom:
-    - <script src="/js/blog.js"></script>
+    - <script type="text/javascript" src="/js/rightMenu.js"></script>
+    - <script type="text/javascript" src="/js/jquery@3.6.1/jquery.min.js"></script>
     - <script data-pjax src="/js/pace-js@1.2.4/pace.min.js"></script>
-# CDN
+    - <script src="/zhheo/random.js"></script>
 CDN:
   third_party_provider: local
