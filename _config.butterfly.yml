@@ -43,6 +43,8 @@ waline:
 footer:
   owner:
     since: 2022
+# 加载动画
+preloader: true
 # 侧边栏
 aside:
   card_author:
@@ -61,5 +63,12 @@ translate:
 snackbar:
   enable: true
   position: top-center
+# 插入代码到头部 </head> 之前 和 底部 </body> 之前
+inject:
+  head:
+    - <link rel="stylesheet" href="/css/blog.css">
+  bottom:
+    - <script src="/js/blog.js"></script>
+# CDN
 CDN:
   third_party_provider: local
