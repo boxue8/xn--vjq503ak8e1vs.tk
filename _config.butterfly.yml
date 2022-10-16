@@ -39,3 +39,10 @@ waline:
 footer:
   owner:
     since: 2022
+# 侧边栏
+aside:
+  card_author:
+    button:
+      enable: false
+  card_announcement:
+    enable: false
