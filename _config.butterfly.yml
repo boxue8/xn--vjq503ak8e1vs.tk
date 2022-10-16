@@ -10,3 +10,8 @@ highlight_theme: mac
 local_search:
   enable: true
   preload: true
+# 头像
+avatar:
+  img: /img/avatar.png
+# 顶部图
+disable_top_img: true
