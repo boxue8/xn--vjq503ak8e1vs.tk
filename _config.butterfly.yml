@@ -6,3 +6,7 @@ menu:
   分类: /categories/ || fas fa-folder-open
 # 代码相关
 highlight_theme: mac
+# 搜索
+local_search:
+  enable: true
+  preload: true
