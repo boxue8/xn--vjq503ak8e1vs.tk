@@ -15,6 +15,10 @@ avatar:
   img: /img/avatar.png
 # 顶部图
 disable_top_img: true
+# 文章封面
+cover:
+  default_cover:
+    - /img/cover.jpg
 # 404
 error_404:
   enable: true
