@@ -61,3 +61,5 @@ translate:
 snackbar:
   enable: true
   position: top-center
+CDN:
+  third_party_provider: local
