@@ -20,3 +20,6 @@ error_404:
   enable: true
   subtitle: '页面没有找到'
   background: /img/404.png
+# 字数统计
+wordcount:
+  enable: true
