@@ -46,3 +46,7 @@ aside:
       enable: false
   card_announcement:
     enable: false
+# 网页运行时间
+runtimeshow:
+  enable: true
+  publish_date: 10/15/2022 00:00:00
