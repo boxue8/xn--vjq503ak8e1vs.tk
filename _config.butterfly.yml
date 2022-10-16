@@ -28,3 +28,10 @@ anchor: true
 # 分享
 sharejs:
   sites: wechat,weibo,qq
+# 评论
+comments:
+  use: waline
+waline:
+  serverURL: https://waline.我爱学习.tk
+  bg: /img/comment_bg.png
+  pageview: true
