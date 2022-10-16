@@ -23,3 +23,5 @@ error_404:
 # 字数统计
 wordcount:
   enable: true
+# 文章锚点
+anchor: true
