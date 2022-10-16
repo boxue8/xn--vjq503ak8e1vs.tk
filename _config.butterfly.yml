@@ -10,6 +10,8 @@ highlight_theme: mac
 local_search:
   enable: true
   preload: true
+# Favicon（网站图标）
+favicon: /favicon.ico
 # 头像
 avatar:
   img: /img/avatar.png
