@@ -25,3 +25,6 @@ wordcount:
   enable: true
 # 文章锚点
 anchor: true
+# 分享
+sharejs:
+  sites: wechat,weibo,qq
