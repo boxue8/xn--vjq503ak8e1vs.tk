@@ -15,3 +15,8 @@ avatar:
   img: /img/avatar.png
 # 顶部图
 disable_top_img: true
+# 404
+error_404:
+  enable: true
+  subtitle: '页面没有找到'
+  background: /img/404.png
