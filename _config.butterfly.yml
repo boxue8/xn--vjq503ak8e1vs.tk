@@ -53,3 +53,7 @@ runtimeshow:
 # 简繁转换
 translate:
   enable: true
+# 弹窗
+snackbar:
+  enable: true
+  position: top-center
