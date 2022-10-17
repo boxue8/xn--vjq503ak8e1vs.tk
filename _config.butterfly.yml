@@ -67,6 +67,11 @@ snackbar:
   position: top-center
 # 设置网站背景
 background: '#f7f9fe'
+# 51la统计
+# 51.la Analytics
+# https://v6.51.la/
+woyaola_analytics: JqgzBIvsnmUv6km4
+woyaola_perf: Jqh0YIcvqa28nvHh
 # 插入代码到头部 </head> 之前 和 底部 </body> 之前
 inject:
   head:
