@@ -1,3 +1,10 @@
+/* 页脚 */
+#footer {
+  background: transparent !important;
+}
+#footer-wrap,#footer-wrap a{
+  color: black;
+}
 /* 加载动画 */
 .loading-img {
     background: url(/img/avatar.png) no-repeat center center;
