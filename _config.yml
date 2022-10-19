@@ -103,3 +103,7 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+# 文章双栏布局插件
+butterfly_article_double_row:
+  enable: true
