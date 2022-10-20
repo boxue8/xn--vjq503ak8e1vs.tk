@@ -2594,6 +2594,11 @@ hexo-bunyan@^1.0.0:
     mv "~2"
     safe-json-stringify "~1"
 
+hexo-butterfly-article-double-row@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/hexo-butterfly-article-double-row/-/hexo-butterfly-article-double-row-1.0.2.tgz#0c7f6e16c460f0ba37326e9da05fa8864cf68c2e"
+  integrity sha512-rKFj4uUrjerTzmZvagTI2orsoxmmMj9Runfdht/4SxKY7ARfpYBd6CAmc14Pi9IE1T+5n6VKMA+WW4g86ZZeFA==
+
 hexo-butterfly-extjs@^1.2.8:
   version "1.2.8"
   resolved "https://registry.npmmirror.com/hexo-butterfly-extjs/-/hexo-butterfly-extjs-1.2.8.tgz#b803a596fa32eb2b65c94ba9441db07c7ae94055"
@@ -2707,12 +2712,12 @@ hexo-fs@^3.0.1, hexo-fs@^3.1.0:
     graceful-fs "^4.1.11"
     hexo-util "^2.0.0"
 
-hexo-generator-archive@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.npmmirror.com/hexo-generator-archive/-/hexo-generator-archive-1.0.0.tgz#ad2afb12232a65e2f8608fc1ca3f19162fb63786"
-  integrity sha512-24TeanDGpMBUIq37DHpSESQbeN6ssZ06edsGSI76tN4Yit50TgsgzP5g5DSu0yJk0jUtHJntysWE8NYAlFXibA==
+hexo-generator-archive@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/hexo-generator-archive/-/hexo-generator-archive-2.0.0.tgz#bd93f17848843bb5bface81103d81f5be1a8b2c9"
+  integrity sha512-KikJk7dGFbtNHOgqtLFGf5T/S8n1paGp+Gy0KfVDz+HKYhGbXOouyiZkmc3O9KrYt6ja14rmkMhq7KKGtvfehw==
   dependencies:
-    hexo-pagination "1.0.0"
+    hexo-pagination "3.0.0"
 
 hexo-generator-baidu-sitemap@^0.1.9:
   version "0.1.9"
