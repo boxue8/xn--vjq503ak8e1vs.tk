@@ -29,8 +29,6 @@ error_404:
 # 字数统计
 wordcount:
   enable: true
-# 文章锚点
-# anchor: true
 # 分享
 sharejs:
   sites: wechat,weibo,qq
@@ -75,13 +73,8 @@ woyaola_perf: Jqh0YIcvqa28nvHh
 # 插入代码到头部 </head> 之前 和 底部 </body> 之前
 inject:
   head:
-    - <link rel="stylesheet" href="/css/blog.css">
-    - <link rel="stylesheet" href="/css/rightMenu.css">
-    - <link rel="stylesheet" href="/css/iconfont.css">
+    # - <link rel="stylesheet" href="/css/blog.css">
   bottom:
-    - <script type="text/javascript" src="/js/rightMenu.js"></script>
-    - <script type="text/javascript" src="/js/jquery@3.6.1/jquery.min.js"></script>
-    - <script data-pjax src="/js/pace-js@1.2.4/pace.min.js"></script>
-    - <script src="/zhheo/random.js"></script>
+    # - <script src="js/blog.js"></script>
 CDN:
   third_party_provider: local
