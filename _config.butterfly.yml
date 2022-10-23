@@ -74,7 +74,7 @@ woyaola_perf: Jqh0YIcvqa28nvHh
 # 插入代码到头部 </head> 之前 和 底部 </body> 之前
 inject:
   head:
-    # - <link rel="stylesheet" href="/css/blog.css">
+    - <link rel="stylesheet" href="/css/footer.css">
   bottom:
     # - <script src="js/blog.js"></script>
 CDN:
