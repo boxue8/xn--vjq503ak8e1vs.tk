@@ -44,7 +44,8 @@ footer:
   owner:
     since: 2022
 # 加载动画
-preloader: true
+preloader:
+  enable: true
 # 侧边栏
 aside:
   card_author:
