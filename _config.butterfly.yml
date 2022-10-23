@@ -46,6 +46,8 @@ footer:
 # 加载动画
 preloader:
   enable: true
+  source: 2
+  pace_css_url: /css/pace.css
 # 侧边栏
 aside:
   card_author:
