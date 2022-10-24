@@ -77,7 +77,11 @@ woyaola_perf: Jqh0YIcvqa28nvHh
 inject:
   head:
     - <link rel="stylesheet" href="/css/footer.css">
+    - <link rel="stylesheet" href="/rightmenu/rightmenu.css">
+    - <link rel="stylesheet" type="text/css" href="/css/heoMainColor.css">
   bottom:
-    # - <script src="js/blog.js"></script>
+    - <script src="/js/jquery.min.js"></script>
+    - <script async data-pjax src="/rightmenu/rightmenu.js"></script>
+    - <script src="/zhheo/random.js"></script>
 CDN:
   third_party_provider: local
